@@ -41,4 +41,4 @@ Recipe Display: Users can view detailed recipes, including ingredients and step-
 Ingredient Management: Users can update their ingredient inventory as they use items or restock.
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
