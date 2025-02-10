@@ -39,6 +39,3 @@ Recommendation Engine: The application uses this input to provide personalized s
 Recipe Display: Users can view detailed recipes, including ingredients and step-by-step instructions.
 
 Ingredient Management: Users can update their ingredient inventory as they use items or restock.
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
